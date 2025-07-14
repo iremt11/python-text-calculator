@@ -39,7 +39,7 @@ Multiple:       2 + 3 * 4 (follows Python precedence)
 
 ```bash
 # Run the calculator
-python 2021510062_irem_tekin.py
+python pyhton-text-calculator.py
 
 # Make sure you have:
 # - input.txt in the same directory
