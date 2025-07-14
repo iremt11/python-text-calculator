@@ -63,8 +63,7 @@ False
 
 14
 ERROR
-📊 Supported Operations
-OperationSymbolExampleResultPower**5 ** 225Multiplication*3 * 412Integer Division//7 // 23Division/5 / 22.5Modulus%7 % 31Addition+3 + 47Subtraction-5 - 23Less Than<3 < 5TrueGreater Than>5 > 3TrueEqual==4 == 4TrueNot Equal!=3 != 5True
+
 🔧 Technical Details
 Operator Precedence:
 Follows Python's operator precedence rules:
